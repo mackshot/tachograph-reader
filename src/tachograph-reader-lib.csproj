@@ -16,6 +16,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Buffers" Version="4.5.0" />
-    <PackageReference Include="System.Security.Cryptography.Asn1.Experimental" Version="0.1.1-preview2-190117-2" />
+    <PackageReference Include="System.Security.Cryptography.Asn1.Experimental" Version="0.1.2-e200122-1" />
   </ItemGroup>
 </Project>
